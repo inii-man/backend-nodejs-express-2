@@ -1,0 +1,16 @@
+{
+  "name": "express-rest-api-playground",
+  "version": "1.0.0",
+  "description": "Playground untuk Express.js dan REST API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
